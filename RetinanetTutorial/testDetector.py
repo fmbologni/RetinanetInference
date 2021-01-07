@@ -63,7 +63,7 @@ for imageIndex in range(len(image_paths)):
     # load label to names mapping for visualization purposes
     labels_to_names = {
             0: 'nike', 
-            1: 'under_armour',
+            1: 'under armour',
             2: 'adidas'
     }
 
